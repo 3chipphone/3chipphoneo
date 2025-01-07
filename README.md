@@ -6,3 +6,4 @@ Fix bug in feature X
 Polish UI layout
 Polish UI layout
 Update dependencies
+Rewrite function Y
