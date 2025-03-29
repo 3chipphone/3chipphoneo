@@ -7,3 +7,4 @@ Polish UI layout
 Polish UI layout
 Update dependencies
 Rewrite function Y
+Improve performance
