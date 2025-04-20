@@ -8,3 +8,4 @@ Polish UI layout
 Update dependencies
 Rewrite function Y
 Improve performance
+Optimize loop
