@@ -12,3 +12,4 @@ Optimize loop
 Fix broken link
 Clean up codebase
 Update configuration
+Fix typo in README
